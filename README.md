@@ -1,4 +1,4 @@
-[![MasterHead](http://www.i-am.co.id/images/Mobile-Development.png)]
+![MasterHead](http://www.i-am.co.id/images/Mobile-Development.png)
 
 <h1 align="center">Hi 👋, I'm Elias Ayele</h1>
 <h3 align="center">A passionate mobile app developer from Ethiopia</h3>
