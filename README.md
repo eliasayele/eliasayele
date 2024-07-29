@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on [Ride Plus](https://play.google.com/store/apps/details?id=com.ridetm&hl=en&gl=US)
 
-- 🌱 I’m currently learning **more on swiftUI and kotlin compose**
-
 - 💬 Ask me about **Android, iOS, flutter, kotlin, swiftUI**
 
 - 📫 How to reach me **eliasey11@gmail.com**
