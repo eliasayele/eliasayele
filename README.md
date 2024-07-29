@@ -9,7 +9,7 @@
 <img align="right" alt="Coding gif" width="400" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
 <p align="left"> <a href="https://twitter.com/elias_ayele1" target="blank"><img src="https://img.shields.io/twitter/follow/elias_ayele1?logo=twitter&style=for-the-badge" alt="elias_ayele1" /></a> </p>
 
-- 🔭 I’m currently working on [Ride Plus](https://play.google.com/store/apps/details?id=com.ridetm&hl=en&gl=US)
+- 🔭 I’m currently working on [Ride Plus](https://play.google.com/store/apps/details?id=com.ridetm&hl=en&gl=US) ,[Ride Plus](https://apps.apple.com/us/app/ride-plus/id6443848297) 
 
 - 💬 Ask me about **Android, iOS, flutter, kotlin, swiftUI**
 
