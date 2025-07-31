@@ -48,7 +48,10 @@ Massive social media app redesigned for creators and communities. Contributed to
   *SwiftUI* – Ride-ordering app with real-time driver tracking and clean UX.
 
 - **Enhance Care** *(Final Review)*  
-  *Swift, SwiftUI* – Health checkup and record system for NGO field workers and social reintegration efforts.
+  *Flutter, but has native code in Swift and kotlin* – Health checkup and record system for NGO field workers and social reintegration efforts.
+
+- **OAB** *(Final Review)*  
+  *Flutter* – Home listing (Zillow) like app.
 
 - **CNCM Ethiopia** – [Play Store](https://play.google.com/store/apps/details?id=com.cncmethiopia.app)  
   *Flutter* – App for an Ethiopian community with events and communication tools.
